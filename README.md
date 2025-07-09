@@ -1,2 +1,12 @@
-# Hotel-booking-system
-This C++ program manages hotel bookings for 200 rooms. It allows users to book rooms, view customer info, and checkout with bill calculation including swimming and spa services. It validates inputs like names, phone, and dates, applies discounts and taxes, and saves data to a file for persistence.
+This is a simple console-based Hotel Management System written in C++.
+It manages bookings for 200 hotel rooms, allowing you to:
+
+Book rooms (choose AC/Non-AC, swimming, spa).
+
+Validate customer name, address, phone number, and dates.
+
+View customer details or room status.
+
+Check out and see the final bill (with discount & tax).
+
+Save booking data to a file, so bookings persist even after restarting.
